@@ -1,0 +1,6 @@
+.DS_Store
+.feature_diagrams_venv/
+feature:diagrams/
+testing_tdd/.DS_Store
+testing_tdd/dist/
+testing_tdd/src/*.egg-info/
