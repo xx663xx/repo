@@ -32,7 +32,7 @@ docs:
 build:
 	$(VENV_PYTHON) -m build --no-isolation
 
-check: lint type test docs build
+check: install lint type test docs build
 
 publish-testpypi: build
 	$(TWINE) upload --repository testpypi dist/*

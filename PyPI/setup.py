@@ -7,7 +7,7 @@ README = (BASE_DIR / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="tiny-text-stats-2026",
-    version="0.1.0",
+    version="0.1.1",
     description="Small library for counting simple text statistics",
     long_description=README,
     long_description_content_type="text/markdown",
