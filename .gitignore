@@ -1,0 +1,16 @@
+.DS_Store
+.feature_diagrams_venv/
+feature:diagrams/
+testing_tdd/
+Make/
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+site/
